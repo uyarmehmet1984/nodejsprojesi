@@ -1,0 +1,17 @@
+{
+  "name": "nodejsproje",
+  "version": "1.0.0",
+  "description": "nodejslensprojesi",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.mjs"
+  },
+  "author": "Mehmet UYAR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
